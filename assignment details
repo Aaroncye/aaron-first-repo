@@ -1,0 +1,15 @@
+Build a personal portfolio site (potentially for yourself).
+External user’s goal:
+The site's users are recruiters considering to hire the applicant.
+Site owner's goal:
+Present self in best light and get hired.
+Potential features to include:
+    ● Include educational history and work experience.
+    ● Outline skills and any other relevant competencies and interests.
+    ● Provide basic personal information and contact information for recruiters.
+    ● Advanced potential feature (nice-to-have)
+    ● Showcase portfolio of projects so far (in-lieu of links to real projects that you'd build later, feel free to include links to fake projects or random sites on the internet at this stage)
+Suggested Javascript features to include:
+    ● Micro interactions when interacting with the site eg, clicking on an interactable area to show some animation, mouse over interactions, scrolling interactions when interacting with the site.
+    ● An email me button that allows recruiters to send an email to the applicant via the site and shows some logic, eg showing some text or images to thank the recruiter for reaching out.
+ID Assignment 1 Brief
