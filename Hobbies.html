@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Post Name</title>
+    <title>Aaron's Hobbies</title>
 
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1" />
@@ -14,11 +14,26 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap" rel="stylesheet">
-
+    <link rel="stylesheet" href="normalize.css">
     <link rel="stylesheet" type=text/css href="default.css">
+    <style type="text/css">
+        .img-container {
+            max-width: 800px;
+        }
+        
+        .img-sch {
+            max-width: 300px;
+        }
+        
+        img {
+            width: 100%
+        }
+    </style>
+
 </head>
 
 <body>
+    <a name="top"></a>
     <div class="nav-wrapper">
         <!-- Link around dots-wrapper added after tutorial video -->
         <a href="index.html">
@@ -39,11 +54,61 @@
             </ul>
     </div>
 
-
     <div class="main-container">
-        <h3>Hobbies</h3>
-    </div>
 
+        <br>
+        <h3>My Hobbies!</h3>
+
+        <ol>
+            <li><strong>Soccer</strong></li>
+
+            <li><strong>Basketball</strong></li>
+
+            <li><strong>Bowling</strong></li>
+        </ol>
+
+        <br>
+
+        <h5>Soccer</h5>
+        <div class="img-sch">
+            <img src="hobbies info/soccer/soccer.jpg">
+        </div>
+
+        <br>
+
+        <h5>Basketball</h5>
+        <div class="img-sch">
+            <video width="500" height="300" controls loop autoplay muted controls="controls">
+                <source src="hobbies info/basketball/3point.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <video width="500" height="300" controls loop autoplay muted controls="controls">
+                <source src="hobbies info/basketball/eurostep.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <video width="500" height="300" controls loop autoplay muted controls="controls">
+                <source src="hobbies info/basketball/shoot.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+
+        </div>
+
+        <br>
+
+        <h5>Bowling</h5>
+        <div class="img-sch">
+            <video width="500" height="300" controls loop autoplay muted controls="controls">
+                <source src="hobbies info/bowling/strike1.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <video width="500" height="300" controls loop autoplay muted controls="controls">
+                <source src="hobbies info/bowling/trickshot.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+        <a href="hobbies.html#top">Click to go back to the top</a>
+
+    </div>
 </body>
 
 </html>
