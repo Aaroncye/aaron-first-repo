@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# Aaron's Portfolio
 
-You can use the [editor on GitHub](https://github.com/Aaroncye/aaron-first-repo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Sharing about me both professionally and personally in the website. Things included such as achievements, hobbies, contact, get-in-touch, and also some of my projects done in poly so far. 
+ 
+## Design Process
+The design of the website was made with an intent for a clean and satisfying look hence why I also had abit of the MAC OS look of the webpage for it. The website shares about me as a person what skills I have, career I like to get into, my social links, my achievements made. So to inform interested parties such as companies who would like to hire me to have a easy access to look through about me without having to research much.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The wireframe I had was a base and then I began to include new designs along the way.
+## Features
 
-### Markdown
+Personalize Theme where it allows you select a theme you like, and then allowing it to record it so that next time you visit it will use the same theme you previously chose!
+I also added video loops, and redirecting to websites on click for alot of the text in my website.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Existing Features
+- Feature 1 - Personalize Theme
+- Feature 2 - Redirecting to new site just on click of a text and image
 
-```markdown
-Syntax highlighted code block
+In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-# Header 1
-## Header 2
-### Header 3
+### Features Left to Implement
+- Include animation and a few more interactions when scrolling
+- Able to swap photos or having the photos blur and then clear again
 
-- Bulleted
-- List
+## Technologies Used
 
-1. Numbered
-2. List
+In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-**Bold** and _Italic_ and `Code` text
+HTML, CSS, Javascript
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## Credits
+found inspiration and research for website from
+- https://www.w3schools.com/
+- https://youtube.com/
+- https://www.pinterest.com/
+- https://github.com/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aaroncye/aaron-first-repo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Content
+- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Media
+this images were taken online, all other images and videos are personal
+https://bendemeerpri.moe.edu.sg/
+https://angmokiopri.moe.edu.sg/
+https://www.ite.edu.sg/colleges/ite-college-central/about-college-central
+https://www.np.edu.sg/Pages/default.aspx?view=www
+
+### Acknowledgements
+
+- I received inspiration for this project from github, and youtube
